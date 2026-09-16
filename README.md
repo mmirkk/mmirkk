@@ -39,35 +39,15 @@ I turn needs into usable tools: internal web applications, focused interfaces, i
 
 ---
 
-## GitHub pulse
+## Work beyond the public graph
 
-<p align="center">
-  <a href="https://github.com/mmirkk?tab=repositories">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmirkk&amp;theme=transparent&amp;title_color=e5d5a2&amp;text_color=c6d0c5&amp;bg_color=00000000&amp;border_color=00000000&amp;icon_color=8d9f8c"
-      />
-      <source
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmirkk&amp;theme=transparent&amp;title_color=657a69&amp;text_color=343b43&amp;bg_color=00000000&amp;border_color=00000000&amp;icon_color=9a3f29"
-      />
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmirkk&amp;theme=transparent&amp;title_color=657a69&amp;text_color=343b43&amp;bg_color=00000000&amp;border_color=00000000&amp;icon_color=9a3f29"
-        width="470"
-        alt="@mmirkk GitHub overview"
-      />
-    </picture>
-  </a>
-</p>
+Most of my production work lives in private repositories because it supports public-sector services and internal operations. This profile focuses on the methods, tools, and ideas I can share safely.
+
+<sub>La mayor parte de mi trabajo de producción vive en repositorios privados porque forma parte de servicios públicos y operaciones internas. Este perfil reúne aquello que puedo compartir de forma responsable.</sub>
 
 ---
 
 <p align="center">
   <strong>Curious by nature. Builder by habit.</strong><br />
-  <sub>Explore the work, experiments, and ideas taking shape across my repositories.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mmirkk?tab=repositories"><strong>Browse repositories →</strong></a>
+  <sub>Good systems make complex work feel simpler.</sub>
 </p>

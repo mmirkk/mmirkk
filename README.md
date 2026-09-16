@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=7868184" width="100%" alt="@mmirkk — automation, data and digital products" />
+  <img src="https://raw.githubusercontent.com/mmirkk/mmirkk/7868184/assets/hero.svg" width="100%" alt="@mmirkk — automation, data and digital products" />
 </p>
 
 <h3 align="center">Automation, data, and digital products — built with intent.</h3>

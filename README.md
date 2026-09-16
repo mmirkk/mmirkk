@@ -46,14 +46,14 @@ I turn needs into usable tools: internal web applications, focused interfaces, i
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmirkk&amp;theme=transparent&amp;title_color=f97316&amp;text_color=d0d0d0&amp;bg_color=00000000&amp;border_color=00000000&amp;icon_color=f97316"
+        srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmirkk&amp;theme=transparent&amp;title_color=e5d5a2&amp;text_color=c6d0c5&amp;bg_color=00000000&amp;border_color=00000000&amp;icon_color=8d9f8c"
       />
       <source
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmirkk&amp;theme=transparent&amp;title_color=ea580c&amp;text_color=444444&amp;bg_color=00000000&amp;border_color=00000000&amp;icon_color=ea580c"
+        srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmirkk&amp;theme=transparent&amp;title_color=657a69&amp;text_color=343b43&amp;bg_color=00000000&amp;border_color=00000000&amp;icon_color=9a3f29"
       />
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmirkk&amp;theme=transparent&amp;title_color=ea580c&amp;text_color=444444&amp;bg_color=00000000&amp;border_color=00000000&amp;icon_color=ea580c"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmirkk&amp;theme=transparent&amp;title_color=657a69&amp;text_color=343b43&amp;bg_color=00000000&amp;border_color=00000000&amp;icon_color=9a3f29"
         width="470"
         alt="@mmirkk GitHub overview"
       />

@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mmirkk/mmirkk/7868184/assets/hero.svg" width="100%" alt="@mmirkk — automation, data and digital products" />
+  <img src="./assets/profile-header.svg" width="100%" alt="@mmirkk — automation, data and digital solutions" />
 </p>
 
-<h3 align="center">Automation, data, and digital products — built with intent.</h3>
+<h3 align="center">Automation, data and digital solutions.</h3>
 
 <p align="center">
-  I work where systems, information, and product thinking meet.<br />
-  I connect tools, turn raw data into useful signals, and build digital solutions that reduce friction.
+  I build automations, work with data, and develop digital solutions.
 </p>
 
 <p align="center">
-  <sub>Automatizo procesos, transformo datos en información útil y diseño soluciones digitales pensadas para resolver problemas reales.</sub>
+  <sub>Automatización de procesos, análisis de datos y desarrollo de soluciones digitales.</sub>
 </p>
 
 ---
@@ -39,15 +38,8 @@ I turn needs into usable tools: internal web applications, focused interfaces, i
 
 ---
 
-## Work beyond the public graph
+## About the repositories
 
-Most of my production work lives in private repositories because it supports public-sector services and internal operations. This profile focuses on the methods, tools, and ideas I can share safely.
+Most of my production work is in private repositories because it supports public-sector services and internal operations.
 
-<sub>La mayor parte de mi trabajo de producción vive en repositorios privados porque forma parte de servicios públicos y operaciones internas. Este perfil reúne aquello que puedo compartir de forma responsable.</sub>
-
----
-
-<p align="center">
-  <strong>Curious by nature. Builder by habit.</strong><br />
-  <sub>Good systems make complex work feel simpler.</sub>
-</p>
+<sub>La mayor parte de mi trabajo de producción está en repositorios privados porque forma parte de servicios públicos y operaciones internas.</sub>

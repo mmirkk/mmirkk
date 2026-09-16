@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">@mmirkk — automation, data and digital products</title>
+  <title id="title">@mmirkk — automation, data and digital solutions</title>
   <desc id="desc">A retro-tech banner in charcoal, sage, cream, and rust featuring the @mmirkk name and an abstract connected-systems diagram.</desc>
 
   <defs>
@@ -39,12 +39,11 @@
     <circle cx="996" cy="291" r="116" fill="#738776" fill-opacity="0.14" filter="url(#soft-glow)"/>
 
     <rect x="43" y="42" width="8" height="8" rx="2" fill="#9a3f29"/>
-    <text x="65" y="50" fill="#c6ba8d" font-family="Consolas, 'SFMono-Regular', monospace" font-size="13" letter-spacing="2.2">AUTOMATION / DATA / DIGITAL PRODUCTS</text>
+    <text x="65" y="50" fill="#c6ba8d" font-family="Consolas, 'SFMono-Regular', monospace" font-size="13" letter-spacing="2.2">N8N / POWER BI / REACT / NODE.JS / PYTHON</text>
 
     <text x="42" y="190" fill="#faefc4" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="86" font-weight="750" letter-spacing="-4">@mmirkk</text>
     <rect x="46" y="216" width="326" height="5" rx="2.5" fill="url(#signal)"/>
-    <text x="43" y="266" fill="#e5d5a2" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="21" font-weight="500" letter-spacing="0.3">BUILT WITH INTENT.</text>
-    <text x="43" y="304" fill="#8d9f8c" font-family="Consolas, 'SFMono-Regular', monospace" font-size="12" letter-spacing="1.8">ANALYZE → AUTOMATE → BUILD</text>
+    <text x="43" y="266" fill="#e5d5a2" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="21" font-weight="500" letter-spacing="0.3">AUTOMATION / DATA / DIGITAL SOLUTIONS</text>
 
     <g transform="translate(692 42)">
       <rect x="0" y="0" width="456" height="276" rx="18" fill="#8d9f8c" fill-opacity="0.065" stroke="#e5d5a2" stroke-opacity="0.16"/>

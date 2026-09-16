@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">@mmirkk — automation, data and digital products</title>
+  <desc id="desc">A graphite and orange editorial banner featuring the @mmirkk name and an abstract connected-systems diagram.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141414"/>
+      <stop offset="0.58" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#101010"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8a24"/>
+      <stop offset="1" stop-color="#f15a16"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+    </pattern>
+    <filter id="soft-glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+
+    <circle cx="1054" cy="54" r="94" fill="#f97316" fill-opacity="0.08" filter="url(#soft-glow)"/>
+    <circle cx="996" cy="291" r="116" fill="#f97316" fill-opacity="0.06" filter="url(#soft-glow)"/>
+
+    <rect x="43" y="42" width="8" height="8" rx="2" fill="#f97316"/>
+    <text x="65" y="50" fill="#9a9a9a" font-family="Consolas, 'SFMono-Regular', monospace" font-size="13" letter-spacing="2.2">AUTOMATION / DATA / DIGITAL PRODUCTS</text>
+
+    <text x="42" y="190" fill="#f6f1e8" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="86" font-weight="750" letter-spacing="-4">@mmirkk</text>
+    <rect x="46" y="216" width="326" height="5" rx="2.5" fill="url(#orange)"/>
+    <text x="43" y="266" fill="#d5d0c7" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="21" font-weight="500" letter-spacing="0.3">BUILT WITH INTENT.</text>
+    <text x="43" y="304" fill="#777777" font-family="Consolas, 'SFMono-Regular', monospace" font-size="12" letter-spacing="1.8">ANALYZE → AUTOMATE → BUILD</text>
+
+    <g transform="translate(692 42)">
+      <rect x="0" y="0" width="456" height="276" rx="18" fill="#ffffff" fill-opacity="0.025" stroke="#ffffff" stroke-opacity="0.09"/>
+      <text x="24" y="33" fill="#727272" font-family="Consolas, 'SFMono-Regular', monospace" font-size="11" letter-spacing="1.6">SYSTEM / FLOW</text>
+      <circle cx="414" cy="28" r="4" fill="#f97316"/>
+
+      <path d="M72 138C136 138 145 78 220 78S299 138 374 138" fill="none" stroke="#3e3e3e" stroke-width="2"/>
+      <path d="M72 138C137 138 149 208 220 208S303 138 374 138" fill="none" stroke="#f97316" stroke-opacity="0.58" stroke-width="2.5"/>
+      <path d="M220 78V208" fill="none" stroke="#4a4a4a" stroke-width="1.5" stroke-dasharray="5 7"/>
+
+      <g transform="translate(48 114)">
+        <rect width="48" height="48" rx="13" fill="#262626" stroke="#505050"/>
+        <circle cx="24" cy="24" r="7" fill="#f97316"/>
+      </g>
+      <g transform="translate(196 54)">
+        <rect width="48" height="48" rx="13" fill="#262626" stroke="#505050"/>
+        <path d="M15 28h18M15 21h18" stroke="#e9e2d8" stroke-width="2" stroke-linecap="round"/>
+      </g>
+      <g transform="translate(196 184)">
+        <rect width="48" height="48" rx="13" fill="#f97316"/>
+        <path d="m15 25 6 6 13-15" fill="none" stroke="#181818" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <g transform="translate(350 114)">
+        <rect width="48" height="48" rx="13" fill="#262626" stroke="#f97316"/>
+        <path d="M15 24h18M24 15v18" stroke="#f97316" stroke-width="2" stroke-linecap="round"/>
+      </g>
+
+      <text x="48" y="183" fill="#666666" font-family="Consolas, 'SFMono-Regular', monospace" font-size="10" letter-spacing="1.2">INPUT</text>
+      <text x="184" y="123" fill="#666666" font-family="Consolas, 'SFMono-Regular', monospace" font-size="10" letter-spacing="1.2">UNDERSTAND</text>
+      <text x="197" y="254" fill="#f97316" font-family="Consolas, 'SFMono-Regular', monospace" font-size="10" letter-spacing="1.2">AUTOMATE</text>
+      <text x="342" y="183" fill="#666666" font-family="Consolas, 'SFMono-Regular', monospace" font-size="10" letter-spacing="1.2">SHIP</text>
+    </g>
+
+    <rect x="0" y="351" width="1200" height="9" fill="url(#orange)"/>
+  </g>
+</svg>
